@@ -1,1 +1,33 @@
 
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+}
+
+.parent {
+    padding: 20px 10px;
+    background-color:rgb(123,33,222);
+}
+.child {
+    margin: 0 15px;
+    background-color: rgb(155,33,33);
+}
+
+button {
+    margin-top: 15px;
+}
+.modal {
+    margin: 0 15px;
+    background-color:  rgb(155,33,33);
+}
+
+#false {
+    display:none;
+}
+#true {
+    visibility:visible;
+}
+h3 {
+    padding: 10px 0;
+}
